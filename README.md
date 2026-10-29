@@ -1,16 +1,9 @@
-# gregcohen.com (archival preview)
+# gregcohen.com (archival recreation)
 
-Static recreation of the old Yahoo SiteBuilder site that lived at gregcohen.com.
+The original Yahoo SiteBuilder site ("Retro TV - Multiple color" template), rebuilt from its own markup and files as saved by the Wayback Machine.
 
-## Source
+- Homepage: capture 2018-07-15 (20180715195814)
+- Photo Albums, Videos, Mascots, About Us: capture 2023-03-29 (20230329221541)
+- Images, audio and video: nearest Wayback captures (2018–2023)
 
-Internet Archive Wayback Machine capture from **2018-07-15**
-(`20180715195814`), which matches later 2014–2018 captures of the live SiteBuilder page.
-
-Homepage: https://web.archive.org/web/20180715195814/http://www.gregcohen.com/
-
-Earlier 2011 captures are the same joke page without `sadiebirdcohen.com` in the list. No separate About/Contact pages were found in that snapshot (404).
-
-## Preview hosting
-
-Intended for GitHub Pages from `main` at `/`. **Do not add a CNAME** until Charlie asks to connect the real domain.
+Changes from the original: the dead hit counter image is replaced with a static look-alike showing its preset value, and an injected third-party script is removed. External album links (ofoto, Snapfish) are kept as they were and no longer work.
